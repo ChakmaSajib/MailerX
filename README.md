@@ -1,5 +1,8 @@
 # MailerX
 To learn NodeMail 
 
-# Install modules - type - npm install 
-# Run - npm start
+# Run 
+<code> npm install </code>
+<br>
+<code> npm start </code>
+
