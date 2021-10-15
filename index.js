@@ -29,7 +29,6 @@ const transporter = mailer.createTransport({
  * Text: Hello, Dear. I am looking forward to learn Nodemailer
  *  ...
  * testing development
- * Again testing
  */
 
 const body = {
